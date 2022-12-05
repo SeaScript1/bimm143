@@ -1,0 +1,7 @@
+"0","metaFile <- ""data/GSE37704_metadata.csv"""
+"0","countFile <- ""data/GSE37704_featurecounts.csv"""
+"0",""
+"0","colData = read.csv(metaFile, row.names = 1)"
+"2","Warning: cannot open file 'data/GSE37704_metadata.csv': No such file or directory"
+"2","Error in file(file, ""rt"") : cannot open the connection
+"
