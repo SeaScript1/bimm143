@@ -1,3 +1,0 @@
-"0","treated <- metadata[metadata[,""dex""]==""treated"",]"
-"0","treated.mean <- rowSums( counts[ ,treated$id] )/4 "
-"0","names(treated.mean) <- counts$ensgene"

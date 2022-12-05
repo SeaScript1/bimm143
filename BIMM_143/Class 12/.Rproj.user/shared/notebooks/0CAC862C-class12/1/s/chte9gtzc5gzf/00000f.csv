@@ -1,3 +1,0 @@
-"0","plot(meancounts[,1], meancounts[,2], xlab = ""Control"", ylab = ""Treated"", log=""xy"")"
-"2","Warning: 15032 x values <= 0 omitted from logarithmic plot"
-"2","Warning: 15281 y values <= 0 omitted from logarithmic plot"

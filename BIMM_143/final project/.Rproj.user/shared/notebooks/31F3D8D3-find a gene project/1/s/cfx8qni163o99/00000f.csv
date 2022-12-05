@@ -1,3 +1,0 @@
-"0","#par(mar=c(3,3,3,0), xpd = TRUE)"
-"0","par(mar=c(5,6,4,1)+.1)"
-"0","heatmap(seqIdentityMatrix)"

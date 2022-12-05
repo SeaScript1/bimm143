@@ -1,3 +1,0 @@
-"0","#install.packages(""BiocManager"")"
-"0","#BiocManager::install()"
-"0","#BiocManager::install(""DESeq2"")"
