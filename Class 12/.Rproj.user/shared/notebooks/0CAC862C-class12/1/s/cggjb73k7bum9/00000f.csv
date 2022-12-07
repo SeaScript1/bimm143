@@ -1,0 +1,2 @@
+"0","up.ind <- mycounts$log2fc > 2"
+"0","down.ind <- mycounts$log2fc < (-2)"

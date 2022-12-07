@@ -1,0 +1,3 @@
+"0","vector <- c(1946, 1996)"
+"0","plot +"
+"0","  geom_vline(xintercept = vector, color = ""blue"", linetype = 2)"

@@ -1,0 +1,24 @@
+"0","library(dplyr)"
+"2","
+Attaching package: ‘dplyr’
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
+"0","sd <- filter(vax, county == ""San Diego"")"
+"0",""
+"0","nrow(sd)"
+"1","[1]"
+"1"," 10700"
+"1","
+"
+"0","sd.10 <- filter(vax, county == ""San Diego"" &"
+"0","                age5_plus_population > 10000)"

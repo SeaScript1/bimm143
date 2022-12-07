@@ -1,0 +1,6 @@
+"0","library(ggplot2)"
+"0","plot <- ggplot(cdc, aes(Year, No..Reported.Pertussis.Cases)) +"
+"0","  geom_point() + "
+"0","  geom_line() + "
+"0","  ylab(""Number of Cases"")"
+"0","plot"

@@ -1,0 +1,7 @@
+"0","grade <- function(link) {"
+"0","  gradebook = read.csv(file = link)"
+"0","}"
+"0",""
+"0","grade(https://tinyurl.com/gradeinput)"
+"2","Error: unexpected '/' in ""grade(https:/""
+"

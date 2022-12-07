@@ -1,0 +1,3 @@
+"0","library(""jsonlite"")"
+"0","subject <- read_json(""https://www.cmi-pb.org/api/subject"", simplifyVector = TRUE) "
+"0","head(subject, 3)"

@@ -1,0 +1,40 @@
+"0","library(lubridate)"
+"2","Loading required package: timechange
+"
+"2","
+Attaching package: ‘lubridate’
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+"
+"0","today()"
+"1","[1]"
+"1"," ""2022-12-05"""
+"1","
+"
+"0","vax$as_of_date <- ymd(vax$as_of_date)"
+"0","today() - vax$as_of_date[1]"
+"1","Time difference of "
+"1",""
+"1","699"
+"1",""
+"1"," "
+"1",""
+"1","days"
+"1",""
+"1","
+"
+"0","vax$as_of_date[nrow(vax)] - vax$as_of_date[1]"
+"1","Time difference of "
+"1",""
+"1","693"
+"1",""
+"1"," "
+"1",""
+"1","days"
+"1",""
+"1","
+"

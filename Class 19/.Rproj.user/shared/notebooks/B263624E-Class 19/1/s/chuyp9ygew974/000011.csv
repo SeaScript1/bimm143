@@ -1,0 +1,2 @@
+"0","specimen <- read_json(""https://www.cmi-pb.org/api/specimen"", simplifyVector = TRUE) "
+"0","titer <- read_json(""https://www.cmi-pb.org/api/ab_titer"", simplifyVector = TRUE)"

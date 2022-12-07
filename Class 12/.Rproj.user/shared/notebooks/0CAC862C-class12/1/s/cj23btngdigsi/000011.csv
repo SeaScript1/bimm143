@@ -1,0 +1,5 @@
+"0","library(ggplot2)"
+"0","ggplot(meancounts, aes(control.mean, treated.mean)) +"
+"0","  geom_point() +"
+"0","  xlab(""Control"") +"
+"0","  ylab(""Treated"")"

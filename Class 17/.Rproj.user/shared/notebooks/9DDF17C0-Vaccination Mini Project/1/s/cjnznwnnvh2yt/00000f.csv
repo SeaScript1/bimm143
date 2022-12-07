@@ -1,0 +1,7 @@
+"0","zip <- sd$zip_code_tabulation_area"
+"0","zip_unique <- unique(zip)"
+"0","length(zip_unique)"
+"1","[1]"
+"1"," 107"
+"1","
+"
