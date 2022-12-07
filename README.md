@@ -9,4 +9,4 @@ Bioinformatics class
 - [Class 11](https://github.com/SeaScript1/bimm143/blob/main/Class%2012/class11pt2%20copy.md)
 - [Class 12](https://github.com/SeaScript1/bimm143/blob/main/Class%2012/class12copy.md)
 - [Class 17](https://github.com/SeaScript1/bimm143/blob/main/Class%2017/vaxminiprojectcopy.md)
-- [Class 19](https://github.com/SeaScript1/bimm143/blob/main/Class%2019/Class19copy.md)
+- [Class 19](https://seascript1.github.io/bimm143/Class%2019/Class19copy.md)
