@@ -1,7 +1,7 @@
 # bimm143
 Bioinformatics class
 
-- [Class 5](https://seascript1.github.io/bimm143/class05/class05copy.md) 
+- [Class 5](https://github.com/SeaScript1/bimm143/blob/main/class05/class05copy.md) 
 - [Class 6](https://github.com/SeaScript1/bimm143/blob/main/class06/class06copy.md)
 - [Class 7](https://github.com/SeaScript1/bimm143/blob/main/class07/Class7copy.md)
 - [Class 8](https://github.com/SeaScript1/bimm143/blob/main/class08/class08copy.md)
